@@ -4,7 +4,7 @@ A production-oriented conversational AI application built with Python, LangChain
 
 ## Live Demo
 
-[Watch Live Demo](YOUR_STREAMLIT_APP_URL)
+[Watch Live Demo](https://drive.google.com/file/d/1Ul_mzZB-OzmIBmfFtR42iM1vmcmewmk8/view?usp=sharing)
 
 ## Overview
 
